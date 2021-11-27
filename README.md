@@ -23,6 +23,6 @@ $ git clone https://github.com/Mdemon99/Mdemon99.git
 ### 
 ```bash
 $ls
-$ cd mdemon99
+$ cd Mdemon99
 $ bash setup.sh
 $ python mdemon99.py

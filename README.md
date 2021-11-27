@@ -25,4 +25,4 @@ $ git clone https://github.com/Mdemon99/Mdemon99.git
 $ls
 $ cd Mdemon99
 $ bash setup.sh
-$ python mdemon99.py
+$ python Mdemon99.py
